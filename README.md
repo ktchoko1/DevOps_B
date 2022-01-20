@@ -1,1 +1,3 @@
-# DevOps_B
+# maven-project
+
+Simple Maven Project
